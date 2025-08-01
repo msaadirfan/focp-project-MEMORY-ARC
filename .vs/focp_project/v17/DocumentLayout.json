@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saad\\Desktop\\NUST\\FOCP\\Project\\code\\focp_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE34E24-39BC-4D2A-91C9-9B2561ED0A21}|focp_project.vcxproj|C:\\Users\\saad\\Desktop\\NUST\\FOCP\\Project\\code\\focp_project\\gameover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EE34E24-39BC-4D2A-91C9-9B2561ED0A21}|focp_project.vcxproj|solutionrelative:gameover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE34E24-39BC-4D2A-91C9-9B2561ED0A21}|focp_project.vcxproj|C:\\Users\\saad\\Desktop\\NUST\\FOCP\\Project\\code\\focp_project\\hard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EE34E24-39BC-4D2A-91C9-9B2561ED0A21}|focp_project.vcxproj|solutionrelative:hard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE34E24-39BC-4D2A-91C9-9B2561ED0A21}|focp_project.vcxproj|C:\\Users\\saad\\Desktop\\NUST\\FOCP\\Project\\code\\focp_project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EE34E24-39BC-4D2A-91C9-9B2561ED0A21}|focp_project.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gameover.cpp",
+              "DocumentMoniker": "C:\\Users\\saad\\Desktop\\NUST\\FOCP\\Project\\code\\focp_project\\gameover.cpp",
+              "RelativeDocumentMoniker": "gameover.cpp",
+              "ToolTip": "C:\\Users\\saad\\Desktop\\NUST\\FOCP\\Project\\code\\focp_project\\gameover.cpp",
+              "RelativeToolTip": "gameover.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T18:56:47.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hard.cpp",
+              "DocumentMoniker": "C:\\Users\\saad\\Desktop\\NUST\\FOCP\\Project\\code\\focp_project\\hard.cpp",
+              "RelativeDocumentMoniker": "hard.cpp",
+              "ToolTip": "C:\\Users\\saad\\Desktop\\NUST\\FOCP\\Project\\code\\focp_project\\hard.cpp*",
+              "RelativeToolTip": "hard.cpp*",
+              "ViewState": "AgIAAKMBAAAAAAAAAAAowL4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T15:54:04.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\saad\\Desktop\\NUST\\FOCP\\Project\\code\\focp_project\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\saad\\Desktop\\NUST\\FOCP\\Project\\code\\focp_project\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAowHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T16:39:48.351Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
