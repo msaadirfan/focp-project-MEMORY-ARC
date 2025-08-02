@@ -93,7 +93,7 @@ As rounds progress:
 ---<img width="600" alt="select difficulty" src="https://github.com/user-attachments/assets/558a378c-c78f-4743-987e-aef25c2f8e55" />
 
 
-## 📸 Screenshots *(Optional)*
+## 📸 Screenshots 
 
 
 <img width="600" alt="beginner2" src="https://github.com/user-attachments/assets/dd17b08c-4ac2-45dc-8b00-83c6d2f6db7f" />
